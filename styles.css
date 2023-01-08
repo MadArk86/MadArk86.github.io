@@ -1764,7 +1764,7 @@ a:active {
 }
 .e49_640 { 
 	background-color:rgba(21.754687651991844, 21.754687651991844, 28.68749924004078, 1);
-	width:1440px;
+	max-width:1440px;
 	height:97px;
 	position:absolute;
 	left:-201px;
